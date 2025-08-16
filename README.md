@@ -1,12 +1,12 @@
 # Olá, eu sou o Lucas!
 
-Sou um estudante de Ciência da Computação na **Universidade Federal de Goiás (UFG). Meu objetivo é atuar na área de **Tratamento de Dados com Machine Learning**.
+Sou um estudante de Ciência da Computação na Universidade Federal de Goiás (UFG). Meu objetivo é atuar na área de Tratamento de Dados com Machine Learning.
 
-- 🌱 Pronomes: Ele/Dele
+- Pronomes: Ele/Dele
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+Tecnologias e Ferramentas
 
 Atualmente, estou me aprofundando nestas tecnologias:
 
