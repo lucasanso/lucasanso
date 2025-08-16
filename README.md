@@ -7,7 +7,7 @@
 
 ---
 
-Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
@@ -36,11 +36,11 @@ Tecnologias e Ferramentas
 
 ## Outros meios
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+<a href="https://www.linkedin.com/in/sansolucas" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="http://lattes.cnpq.br/SEU-ID-LATTES-AQUI" target="_blank">
+<a href="http://lattes.cnpq.br/5663926736273359" target="_blank">
   <img src="https://img.shields.io/badge/Currículo_Lattes-0A477E?style=for-the-badge" alt="Currículo Lattes">
 </a>
 
