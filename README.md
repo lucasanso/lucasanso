@@ -1,5 +1,5 @@
--  Hi, I’m Lucas Santos Soares, from Goiania, Goias, Brazil.
--  I'm currently studying Computer Science at the Universidade Federal de Goias (UFG).
--  I’m interested in Data Science. 
--  I’m currently learning C and Python programming languages.
--  Pronouns: He/Him
+-  Olá! Eu sou o Lucas!
+-  Sou estudante de Ciência da Computação na Universidade Federal de Goiás (UFG).
+-  Tenho interesse na área de Tratamento de Dados com Machine Learning.
+-  Atualmente, estou estudando linguagem SQL e PostgreSQL como Sistema Gerenciador de Banco de Dados.
+-  Pronomes: Ele/Dele.
