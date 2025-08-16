@@ -1,18 +1,21 @@
 # Olá, eu sou o Lucas!
 
-Sou um estudante de Ciência da Computação na Universidade Federal de Goiás (UFG). Meu objetivo é atuar na área de Tratamento de Dados com Machine Learning.
-
+- Sou um estudante de Ciência da Computação na Universidade Federal de Goiás (UFG). Meu objetivo é atuar na área de Tratamento de Dados com Machine Learning.
+- Atualmente, estou estudando a linguagem SQL e PostgreSQL como sistema gerenciador de banco de dados.
+- Tenho interesse na área de Tratamento de Dados e Machine Learning.
 - Pronomes: Ele/Dele
 
 ---
 
 Tecnologias e Ferramentas
 
-Atualmente, estou me aprofundando nestas tecnologias:
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
 ---
@@ -21,15 +24,25 @@ Atualmente, estou me aprofundando nestas tecnologias:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasanso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasanso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanso&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanso&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
 
 ---
+
+## Outros meios
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="http://lattes.cnpq.br/SEU-ID-LATTES-AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/Currículo_Lattes-0A477E?style=for-the-badge" alt="Currículo Lattes">
+</a>
 
 ## 📫 Onde me encontrar:
 
