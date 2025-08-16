@@ -5,5 +5,5 @@
 -  Pronomes: Ele/Dele.
 
   <div
-    <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=lucasanso&show_icons=true&theme=radical)"/>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasanso)](https://github.com/anuraghazra/github-readme-stats)
   </div>
