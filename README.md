@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas! 
+# Olá, eu sou o Lucas ! 
 
 Estudante de Ciência da Computação na Universidade Federal de Goiás (UFG).
 
