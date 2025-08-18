@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas! 
 
-Sou estudante de Ciência da Computação na Universidade Federal de Goiás (UFG).
+Estudante de Ciência da Computação na Universidade Federal de Goiás (UFG).
 
 <a href="http://lattes.cnpq.br/5663926736273359" target="_blank">
   <img src="https://img.shields.io/badge/Lattes-0A477E?style=for-the-badge" alt="Currículo Lattes">
