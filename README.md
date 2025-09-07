@@ -6,7 +6,7 @@ Estudante de Ciência da Computação na Universidade Federal de Goiás (UFG).
   <img src="https://img.shields.io/badge/Lattes-0A477E?style=for-the-badge" alt="Currículo Lattes">
 </a>
 
-## 📊 Estatísticas
+## 📊 Tecnologias
 
 <div>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasanso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
