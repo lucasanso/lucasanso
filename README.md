@@ -1,56 +1,25 @@
-# Olá, eu sou o Lucas! 
+# Olá, eu sou o Lucas ! 
 
-Estudante de Ciência da Computação na **Universidade Federal de Goiás (UFG)**. Focado em Engenharia de Dados e automação.
+Estudante de Ciência da Computação na Universidade Federal de Goiás (UFG).
 
 <a href="http://lattes.cnpq.br/5663926736273359" target="_blank">
   <img src="https://img.shields.io/badge/Lattes-0A477E?style=for-the-badge" alt="Currículo Lattes">
 </a>
 
----
+## 📊 Tecnologias
 
-## Estatísticas
+<div align="center" style="display: inline_block">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasanso&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanso&layout=compact&langs_count=16&theme=dark" alt="Linguagens mais usadas" />
-</p>
+## 📫 Conecte-se comigo
 
----
-
-## Toolbox
-
-<p align="center">
-  <img title="PostgreSQL" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  &nbsp;
-  <img title="Snowflake" alt="Snowflake" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg">
-  &nbsp;
-  <img title="MongoDB" alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  &nbsp;
-  <img title="Python" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  &nbsp;
-  <img title="C" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  &nbsp;
-  <img title="C++" alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  &nbsp;
-  <img title="Docker" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  &nbsp;
-  <img title="AWS" alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-</p>
-
----
-
-## Conecte-se comigo
-
-<p align="center">
-  <a href="https://discord.com/users/392701031894614026" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucasansodev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sansolucas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<div align="center">
+  <a href="https://discord.com/users/392701031894614026" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucasansodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sansolucas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
